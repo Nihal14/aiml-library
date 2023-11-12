@@ -10,14 +10,14 @@ The AIML Departmental Library app is a comprehensive solution for library manage
 
 The project is organized into two main folders:
 
-- [`frontend`](frontend/README.md): Contains all the React-related code for the frontend.
-- [`backend`](backend/README.md): Houses all the Django Rest Framework code for the backend.
+- [`Frontend`](Frontend/README.md): Contains all the React-related code for the frontend.
+- [`Backend`](Backend/README.md): Houses all the Django Rest Framework code for the backend.
 
 Please refer to the README files in each respective folder for detailed information on the frontend and backend.
 
 ## Getting Started
 
-To run the full application locally, follow the instructions in both the [`frontend/README.md`](frontend/README.md) and [`backend/README.md`](backend/README.md) files.
+To run the full application locally, follow the instructions in both the [`Frontend/README.md`](Frontend/README.md) and [`Backend/README.md`](Backend/README.md) files.
 
 ## Contributing
 
