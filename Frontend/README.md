@@ -27,10 +27,31 @@ git clone https://github.com/AdarshSavalagi/aiml-library.git
 
    This will start the development server at [http://localhost:5173](http://localhost:5173).
 
-## Project Structure
+## Project File Structure
 
-- `/src`: Contains the source code of the React app.
-- `/public`: Public assets and the HTML template.
+The AIML Library React app is organized into the following directories:
+
+### 1. components
+This directory houses reusable components used throughout the application. These components include:
+- **NavBar:** Navigation bar for easy navigation within the app.
+- **Footer:** Footer component providing information or navigation links.
+- **Profile Card:** Component displaying user profile information.
+- **Alert Message:** Component for displaying alert messages.
+
+### 2. Routes
+The Routes directory contains all the routes used in the application. These routes include:
+- **About:** Route providing information about the AIML Library.
+- **Admin Dashboard:** Route for the admin dashboard, managing book-related tasks.
+- **Student Dashboard:** Route for the student dashboard, displaying book status and history.
+- **Login:** Route for user authentication.
+- **Loading Pages:** Pages displaying loading indicators or messages.
+
+### 3. assets
+The assets directory contains all necessary asset files used in the application, such as images, stylesheets, or other media files.
+
+
+Feel free to adapt this structure based on your specific needs or any additional details in your project.
+
 
 ## Available Scripts
 
