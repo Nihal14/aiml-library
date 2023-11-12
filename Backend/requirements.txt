@@ -1,0 +1,4 @@
+django-cors-headers
+django
+djangorestframework
+PyJWT==1.7.1
