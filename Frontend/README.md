@@ -8,9 +8,12 @@ Welcome to my React app! This project serves as a foundation for building dynami
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/AdarshSavalagi/adarshsavalagi.github.io-reactapp
+   git clone https://github.com/AdarshSavalagi/aiml-library.git
    ```
-
+2. **Open the Folder:**
+   ```bash
+   cd Frontend
+   ```
 2. **Install Dependencies:**
    ```bash
    npm install
@@ -21,7 +24,7 @@ Welcome to my React app! This project serves as a foundation for building dynami
    npm start
    ```
 
-   This will start the development server at [http://localhost:3000](http://localhost:3000).
+   This will start the development server at [http://localhost:5173](http://localhost:5173).
 
 ## Project Structure
 
