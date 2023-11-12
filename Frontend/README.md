@@ -13,7 +13,7 @@ git clone https://github.com/AdarshSavalagi/aiml-library.git
    ```
 2. **Open the Folder:**
    ```bash
-   cd Frontendcd aiml-library/Frontend
+   cd aiml-library/Frontend
    ```
 3. **Install Dependencies:**
    ```bash
@@ -56,7 +56,7 @@ Feel free to adapt this structure based on your specific needs or any additional
 ## Available Scripts
 
 - **`npm run dev`**: Runs the app in development mode.
-- **`npm run build`**: Builds the app for production to the `/build` folder.
+- **`npm run build`**: Builds the app for production to the `/dist` folder.
 
 ## Features
 
