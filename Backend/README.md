@@ -69,8 +69,8 @@ The API documentation for the Django restframework Backend can be accessed at Of
 
 ## Project Structure
 
-- `/library_app`: Contains the main app for library management.
-- `/aiml_library`: The main project folder.
+- `/core`: Contains the main app for library management.
+- `/library`: The main project folder.
 
 ## Contributing
 
@@ -78,11 +78,5 @@ We welcome contributions from the community to enhance the AIML Department Libra
 
 For major changes, please open an issue first to discuss potential changes and ensure alignment with the project's goals.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 Happy coding! 📚✨
-```
-
-Make sure to replace placeholder URLs and paths with your actual project details. If you have specific contributing guidelines or a code of conduct, consider including separate files for those and linking to them in the README.
